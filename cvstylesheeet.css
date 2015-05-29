@@ -4,3 +4,16 @@ div{
     width: 410px;
     background-color: red;
 }
+header{
+    position: fixed;
+    z-index: 1;
+}
+.left{
+    float: left;
+}
+.right{
+    float: right;
+}
+#footer{
+    clear:both;
+}
